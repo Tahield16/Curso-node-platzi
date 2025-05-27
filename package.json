@@ -1,0 +1,19 @@
+{
+  "name": "praciticas-curso-platzi-tahiel-devoto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tahield16/Curso-node-platzi.git"
+  },
+  "author": "Tahiel Devoto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tahield16/Curso-node-platzi/issues"
+  },
+  "homepage": "https://github.com/Tahield16/Curso-node-platzi#readme",
+  "description": ""
+}
